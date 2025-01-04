@@ -3,6 +3,7 @@
 datasets*
 outputs*
 figures*
+params*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
